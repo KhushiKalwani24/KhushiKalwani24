@@ -72,11 +72,11 @@
 <!--STATS:START-->
 <p align="center">
   <img src="https://img.shields.io/badge/LEVEL-0-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XP-0%2F150-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XP-45%2F150-blueviolet?style=for-the-badge" />
 </p>
 <p align="center">
-  <img src="https://progress-bar.dev/0/?title=HP&color=red&width=300&suffix=%20/100" /><br>
-  <img src="https://progress-bar.dev/0/?title=Mana&color=blue&width=300&suffix=%20/100" />
+  <img src="https://progress-bar.dev/50/?title=HP&color=red&width=300&suffix=%20/100" /><br>
+  <img src="https://progress-bar.dev/40/?title=Mana&color=blue&width=300&suffix=%20/100" />
 </p>
 <!--STATS:END-->
 
@@ -85,7 +85,35 @@
 ## 📜 Quest Log
 
 <!--QUESTLOG:START-->
-Loading latest quests…
+- Redesigned README to showcase project story, visuals, and machine learning insights
+
+Transformed the README into a comprehensive guide for the Email Spam Detection project.
+
+✅ Added a compelling introduction highlighting the real-world impact of spam detection  
+📊 Included visuals (Confusion Matrix, Word Cloud) to illustrate model performance and insights  
+🧠 Documented the tech stack, folder structure, and tool choices with clear explanations  
+📁 Organized layout for easy navigation and understanding  
+✨ Tailored for recruiters, collaborators, and beginners exploring machine learning ✅
+- Update README.md ✅
+- Update README.md ✅
+- Redesigned README to showcase project story, visuals, and machine learning insights
+
+Transformed the README into a comprehensive guide for the Email Spam Detection project.
+
+✅ Added a compelling introduction highlighting the real-world impact of spam detection  
+📊 Included visuals (Confusion Matrix, Word Cloud) to illustrate model performance and insights  
+🧠 Documented the tech stack, folder structure, and tool choices with clear explanations  
+📁 Organized layout for easy navigation and understanding  
+✨ Tailored for recruiters, collaborators, and beginners exploring machine learning ✅
+- Redesigned README to showcase project story, visuals, and machine learning insights
+
+Transformed the README into a comprehensive guide for the Email Spam Detection project.
+
+✅ Added a compelling introduction highlighting the real-world impact of spam detection  
+📊 Included visuals (Confusion Matrix, Word Cloud) to illustrate model performance and insights  
+🧠 Documented the tech stack, folder structure, and tool choices with clear explanations  
+📁 Organized layout for easy navigation and understanding  
+✨ Tailored for recruiters, collaborators, and beginners exploring machine learning ✅
 <!--QUESTLOG:END-->
 
 ---
