@@ -1,0 +1,108 @@
+name: Update RPG Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily at 00:00 UTC
+  workflow_dispatch:       # allow manual run
+
+permissions:
+  contents: write          # needed to push README changes
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Calculate & update README
+        env:
+          GH_USERNAME: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python - <<'PY'
+          import os, re, requests
+
+          USER = os.environ["GH_USERNAME"]
+          TOKEN = os.environ.get("GH_TOKEN", "")
+
+          def gh(url):
+            headers = {"Accept":"application/vnd.github+json"}
+            if TOKEN:
+              headers["Authorization"] = f"Bearer {TOKEN}"
+            r = requests.get(url, headers=headers)
+            r.raise_for_status()
+            return r.json()
+
+          # Pull up to ~300 recent public events (3 pages)
+          events = []
+          for page in (1,2,3):
+            events += gh(f"https://api.github.com/users/{USER}/events?per_page=100&page={page}")
+
+          # Count commits & collect recent messages
+          commits = []
+          for e in events:
+            if e.get("type") == "PushEvent":
+              for c in e.get("payload", {}).get("commits", []):
+                commits.append(c.get("message",""))
+
+          total_commits = len(commits)
+          XP_PER_COMMIT = 5
+          LEVEL_XP = 150
+
+          xp = total_commits * XP_PER_COMMIT
+          level = xp // LEVEL_XP
+          next_level = (level + 1) * LEVEL_XP
+
+          # HP/Mana scale with level, capped at 100
+          hp = min(100, 50 + level*5)
+          mana = min(100, 40 + level*6)
+
+          # Build blocks
+          stats_block = f"""
+          <p align="center">
+            <img src="https://img.shields.io/badge/LEVEL-{level}-success?style=for-the-badge" />
+            <img src="https://img.shields.io/badge/XP-{xp}%2F{next_level}-blueviolet?style=for-the-badge" />
+          </p>
+          <p align="center">
+            <img src="https://progress-bar.dev/{hp}/?title=HP&color=red&width=300&suffix=%20/100" /><br>
+            <img src="https://progress-bar.dev/{mana}/?title=Mana&color=blue&width=300&suffix=%20/100" />
+          </p>
+          """.strip()
+
+          if commits:
+            quests = "\n".join([f"- {m} ✅" for m in commits[:5]])
+          else:
+            quests = "- No recent commits — time to quest! ⚔️"
+
+          def replace_block(text, start, end, new):
+            pattern = re.compile(rf"({re.escape(start)})(.*?){re.escape(end)}", re.S)
+            return pattern.sub(lambda m: m.group(1) + "\n" + new + "\n" + end, text)
+
+          with open("README.md", "r", encoding="utf-8") as f:
+            readme = f.read()
+
+          readme = replace_block(readme, "<!--STATS:START-->", "<!--STATS:END-->", stats_block)
+          readme = replace_block(readme, "<!--QUESTLOG:START-->", "<!--QUESTLOG:END-->", quests)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+            f.write(readme)
+          PY
+
+      - name: Commit & push if changed
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "⚔️ Auto-updated RPG stats"
+            git push
+          else
+            echo "No changes to commit."
+          fi
