@@ -72,7 +72,7 @@
 <!--STATS:START-->
 <p align="center">
   <img src="https://img.shields.io/badge/LEVEL-0-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XP-15%2F150-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XP-0%2F150-blueviolet?style=for-the-badge" />
 </p>
 <p align="center">
   <img src="https://progress-bar.dev/50/?title=HP&color=red&width=300&suffix=%20/100" /><br>
@@ -85,9 +85,7 @@
 ## 📜 Quest Log
 
 <!--QUESTLOG:START-->
-- Create update_stats.py ✅
-- Create update-stats.yml ✅
-- Update README.md ✅
+- No recent commits — time to quest! ⚔️
 <!--QUESTLOG:END-->
 
 ---
