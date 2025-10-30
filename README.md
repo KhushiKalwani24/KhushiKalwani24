@@ -50,7 +50,6 @@
 ## 📊 Player Stats
 
 ![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhushiKalwani24&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiKalwani24&layout=compact&theme=radical)
 
 ---
@@ -63,30 +62,46 @@
 
 ## 🗺️ Contribution Map
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KhushiKalwani24&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhushiKalwani24&theme=react-dark&hide_border=true)
 
 ---
 
 ## 🎯 Current Level & Stats
 
-<!--STATS:START-->
 <p align="center">
-  <img src="https://img.shields.io/badge/LEVEL-0-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XP-0%2F150-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEVEL-2-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XP-90%2F150-blueviolet?style=for-the-badge" />
 </p>
 <p align="center">
-  <img src="https://progress-bar.dev/50/?title=HP&color=red&width=300&suffix=%20/100" /><br>
-  <img src="https://progress-bar.dev/40/?title=Mana&color=blue&width=300&suffix=%20/100" />
+  <img src="https://progress-bar.dev/80/?title=HP&color=red&width=300&suffix=%20/100" /><br>
+  <img src="https://progress-bar.dev/60/?title=Mana&color=blue&width=300&suffix=%20/100" />
 </p>
-<!--STATS:END-->
 
 ---
 
-## 📜 Quest Log
+## 🪄 Recent Quests (Auto-Updated)
 
-<!--QUESTLOG:START-->
-- No recent commits — time to quest! ⚔️
-<!--QUESTLOG:END-->
+<!--RECENT_REPOS:start-->
+[![Khushi’s Latest Projects](https://github-readme-activity-graph.vercel.app/graph?username=KhushiKalwani24&theme=github-dark&custom_title=Recent%20Repo%20Activity)](https://github.com/KhushiKalwani24)
+<!--RECENT_REPOS:end-->
+
+---
+
+## 📜 Quest Log (Auto Updates Commits)
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:end-->
+
+> ⚡ *This log auto-updates every time you push or merge commits!*
+
+---
+
+## 💬 Random Wisdom of the Day
+
+> 💡 “{{ quote }}”
+
+(*This line refreshes automatically on profile reload with random programming quotes.*)
 
 ---
 
@@ -100,4 +115,3 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=KhushiKalwani24&theme=darkhub&no-bg=true)
 
 <p align="center">⚔️ "Every repo is a new mission. Let’s keep coding and leveling up!"</p>
-
