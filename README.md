@@ -9,8 +9,8 @@
 <p align="center">
   🧙‍♀️ <strong>Machine Learning Explorer</strong> | 🛡️ Python Coder | 🔥 YOLOv8 Warrior  
   <br>
-  💾 <i>"Turning ideas into intelligent code, one commit at a time."</i>
-</p>
+  💾 <i>"Turning ideas into intelligent code, one commit at a time."</i> 
+</p> 
 
 ---
 
