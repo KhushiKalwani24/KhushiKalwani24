@@ -7,7 +7,7 @@
 <h1 align="center">🎮 Welcome to Khushi Kalwani's GitHub Quest</h1>
 
 <p align="center">
-  🧙‍♀️ <strong>Machine Learning Explorer</strong> | 🛡️ Python Coder | 🔥 YOLOv8 Warrior  
+  🧙‍♀️ <strong>Machine Learning Explorer</strong> | 🛡️ Python Coder | 🔥 YOLOv8 Warrior
   <br>
   💾 <i>"Turning ideas into intelligent code, one commit at a time."</i> 
 </p> 
