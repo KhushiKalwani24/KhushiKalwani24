@@ -1,190 +1,276 @@
 <div align="center">
 
-```
-██╗  ██╗██╗  ██╗██╗   ██╗███████╗██╗  ██╗██╗    ██╗  ██╗ █████╗ ██╗     ██╗    ██╗ █████╗ ███╗   ██╗██╗
-██║ ██╔╝██║  ██║██║   ██║██╔════╝██║  ██║██║    ██║ ██╔╝██╔══██╗██║     ██║    ██║██╔══██╗████╗  ██║██║
-█████╔╝ ███████║██║   ██║███████╗███████║██║     █████╔╝ ███████║██║     ██║ █╗ ██║███████║██╔██╗ ██║██║
-██╔═██╗ ██╔══██║██║   ██║╚════██║██╔══██║██║     ██╔═██╗ ██╔══██║██║     ██║███╗██║██╔══██║██║╚██╗██║██║
-██║  ██╗██║  ██║╚██████╔╝███████║██║  ██║██║     ██║  ██╗██║  ██║███████╗╚███╔███╔╝██║  ██║██║ ╚████║██║
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝
-```
+<!-- ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KHUSHI%20KALWANI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20YOLOv8%20Warrior&descAlignY=55&descSize=16" />
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=80&lines=PLAYER+NAME%3A+KHUSHI+KALWANI;CLASS%3A+DATA+SCIENTIST+%2B+ML+EXPLORER;STATUS%3A+ONLINE+%E2%96%BA+GRINDING+DEEP+LEARNING" alt="Typing SVG" />
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=750&height=100&lines=%E2%96%BA+BOOTING+PLAYER+PROFILE...;%E2%96%BA+LOADING+ML+MODULES...+%E2%9C%93;%E2%96%BA+YOLOV8+ENGINE+ONLINE...+%E2%9C%93;%E2%96%BA+READY+TO+TRAIN+%26+DEPLOY+%F0%9F%94%A5" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280" alt="loading..."/>
+  <!-- ORIGINAL GIF — KEPT AS REQUESTED -->
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="320" alt="console loading"/>
 </div>
 
 <br>
 
 ---
 
-## 🎮 [ PLAYER PROFILE ]
+<div align="center">
 
-```yaml
-Name       : Khushi Kalwani
-Role       : ML Engineer | Data Scientist | YOLOv8 Specialist
-Level      : 2  (90 / 150 XP)
-Location   : India
-Status     : 🟢 ACTIVE — Currently farming Deep Learning XP
-Specialty  : Computer Vision + Predictive Modeling
-Next Quest : Reinforcement Learning & Large Language Models
+## 🕹️ INSERT COIN TO BEGIN 🕹️
+
 ```
+ ██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗      ██╗
+ ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗    ███║
+ ██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝    ╚██║
+ ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗     ██║
+ ██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║     ██║
+ ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝     ╚═╝
+              ⚡ KHUSHI KALWANI — DATA SCIENTIST ⚡
+```
+
+</div>
 
 ---
 
-## ⚔️ [ SKILL TREE — ARSENAL UNLOCKED ]
+## 🎮 ═══ PLAYER CARD ═══
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
+```python
+class KhushiKalwani:
+
+    def __init__(self):
+        self.name       = "Khushi Kalwani"
+        self.title      = "🧙‍♀️ Data Scientist & ML Engineer"
+        self.level      = 2
+        self.xp         = "90 / 150"
+        self.location   = "🇮🇳 India"
+        self.status     = "🟢 ONLINE — Farming Deep Learning XP"
+
+    @property
+    def current_quests(self):
+        return [
+            "🔥 Mastering Deep Learning",
+            "🤖 Exploring Generative AI",
+            "👁️ Building Computer Vision Apps",
+            "🧬 Next: Reinforcement Learning & LLMs"
+        ]
+
+    @property
+    def superpowers(self):
+        return {
+            "vision"  : "YOLOv8 Object Detection",
+            "predict" : "Classification & Regression",
+            "weapon"  : "Python 🐍",
+            "shield"  : "Data Preprocessing & EDA"
+        }
+```
+
+<br clear="right"/>
+
+---
+
+## ⚔️ ═══ SKILL TREE ═══ ARSENAL UNLOCKED ═══
 
 <div align="center">
 
-### 🐍 Languages
+### ┌─── 🐍 LANGUAGES ───┐
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧠 ML / AI Stack
+### ┌─── 🧠 AI / ML ENGINE ───┐
 
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=yolo&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=yolo&logoColor=00FF41)
 
-### 📊 Data Science Tools
+### ┌─── 📊 DATA SCIENCE WEAPONS ───┐
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3B7DD8?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 🛠️ Dev Environment
+### ┌─── 🛠️ DEV ENVIRONMENT ───┐
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 [ QUEST LOG — COMPLETED MISSIONS ]
-
-| 🗂️ Quest Name | ⚔️ Type | 🧩 Description | 💥 XP |
-|--------------|---------|----------------|-------|
-| [❤️ Heart Disease Prediction](https://github.com/KK-coder-12/Heart-Disease-Prediction) | `Health Guard` | Predict cardiac risk using ML classifiers | **+20 XP** |
-| [🧠 Student Depression Prediction](https://github.com/KK-coder-12/student_depression_prediction) | `Mental Mage` | Identify student depression signals from data | **+18 XP** |
-| [📈 Selling Price Prediction](https://github.com/KK-coder-12/selling_price_prediction) | `Price Oracle` | Regression model for market pricing | **+15 XP** |
-| [🔥 Fire Detection (YOLOv8)](https://github.com/KK-coder-12/Fire_detection) | `Vision Warrior` | Real-time fire detection with YOLOv8 | **+30 XP** |
-| [📊 Loss & Cost Functions](https://github.com/KK-coder-12/Loss-and-Cost-function) | `Math Sorcerer` | Deep dive into optimization theory | **+10 XP** |
-
-> **Total XP: 93 / 150** — Keep grinding to reach **Level 3** 🔓
-
----
-
-## 📊 [ PLAYER STATS ]
-
-<div align="center">
-
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiKalwani24&show_icons=true&theme=tokyonight&border_color=00FF41&title_color=00FF41&icon_color=00FF41)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiKalwani24&layout=compact&theme=radical&border_color=FF0080)
-
-</div>
-
----
-
-## 🔥 [ DAILY BATTLE LOG — STREAK COUNTER ]
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=KhushiKalwani24&theme=dark&hide_border=false&border=00FF41&fire=FF4500&ring=00FF41&currStreakLabel=00FF41)
-
-</div>
-
----
-
-## 🗺️ [ CONTRIBUTION MAP — THE BATTLEFIELD ]
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhushiKalwani24&theme=react-dark&hide_border=false&color=00FF41&line=00FF41&point=FF4500)
-
-</div>
-
----
-
-## 🎯 [ CHARACTER STATUS ]
+## 🗡️ ═══ CHARACTER STATUS SCREEN ═══
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════╗
-║          KHUSHI KALWANI — LVL 2          ║
-╠══════════════════════════════════════════╣
-║  HP     ████████████████░░░░  80 / 100   ║
-║  MANA   ████████████░░░░░░░░  60 / 100   ║
-║  XP     ██████████████░░░░░░  90 / 150   ║
-╠══════════════════════════════════════════╣
-║  BUFFS  🧠 Deep Learning  🔥 YOLOv8      ║
-║         📊 Data Science  🐍 Python Pro   ║
-╠══════════════════════════════════════════╣
-║  DEBUFFS  ⏳ Still Mastering Transformers ║
-╚══════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════╗
+║          ⚔️  KHUSHI KALWANI  —  DATA MAGE  ⚔️         ║
+╠═══════════════════════════════════════════════════════╣
+║                                                       ║
+║   ❤️  HP      ████████████████░░░░░░   80 / 100       ║
+║   💙  MANA    ████████████░░░░░░░░░░   60 / 100       ║
+║   ✨  XP      ██████████████░░░░░░░░   90 / 150       ║
+║   🌟  LEVEL   ████░░░░░░░░░░░░░░░░░░    2 / 10        ║
+║                                                       ║
+╠═══════════════════════════════════════════════════════╣
+║                                                       ║
+║   ⚡ ACTIVE BUFFS:                                    ║
+║      🐍  Python Mastery        [MAXED]                ║
+║      🔥  YOLOv8 Vision         [ACTIVE]               ║
+║      🧠  Deep Learning         [TRAINING...]          ║
+║      📊  Data Science          [ACTIVE]               ║
+║      🤖  Generative AI         [UNLOCKING...]         ║
+║                                                       ║
+╠═══════════════════════════════════════════════════════╣
+║                                                       ║
+║   🚫 DEBUFFS:                                         ║
+║      ⏳  Transformers Not Yet Mastered                ║
+║      😴  Sleep Lost to Debugging Sessions             ║
+║                                                       ║
+╠═══════════════════════════════════════════════════════╣
+║                                                       ║
+║   🎯 NEXT UNLOCK @ LVL 3:  Reinforcement Learning    ║
+║   🎯 NEXT UNLOCK @ LVL 5:  LLM Fine-tuning           ║
+║   🎯 FINAL BOSS: Deploy AI Product to Production     ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
 ```
 
-<img src="https://img.shields.io/badge/LEVEL-2-00FF41?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/XP-90%2F150-blueviolet?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/⚔️_LEVEL-2-00FF41?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/✨_XP-90%2F150-blueviolet?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/🟢_STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/🏆_CLASS-DATA_MAGE-FF4500?style=for-the-badge&labelColor=0d0d0d" />
 
 </div>
 
 ---
 
-## 🏅 [ TROPHIES & ACHIEVEMENTS ]
+## 🏆 ═══ QUEST LOG — COMPLETED MISSIONS ═══
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=KhushiKalwani24&theme=matrix&no-bg=true&no-frame=false&column=6)
+| 🔰 Rank | 🗡️ Quest Name | 🧩 Mission | ⚡ Weapon Used | 💥 XP |
+|:---:|---|---|---|:---:|
+| 🥇 | [🔥 Fire Detection](https://github.com/KK-coder-12/Fire_detection) | Real-time fire detection system | `YOLOv8 + OpenCV` | **+30 XP** |
+| 🥈 | [❤️ Heart Disease Prediction](https://github.com/KK-coder-12/Heart-Disease-Prediction) | Predict cardiac risk from patient data | `Scikit-Learn + EDA` | **+20 XP** |
+| 🥉 | [🧠 Student Depression Prediction](https://github.com/KK-coder-12/student_depression_prediction) | Detect depression signals in students | `Classification Models` | **+18 XP** |
+| 4️⃣ | [📈 Selling Price Prediction](https://github.com/KK-coder-12/selling_price_prediction) | Regression model for market pricing | `Regression + Feature Eng.` | **+15 XP** |
+| 5️⃣ | [📊 Loss & Cost Functions](https://github.com/KK-coder-12/Loss-and-Cost-function) | Deep dive into optimization math | `NumPy + Math` | **+10 XP** |
+
+</div>
+
+<div align="center">
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   TOTAL XP: 93 / 150
+                    ▲ grind more missions to LEVEL UP ▲
+```
 
 </div>
 
 ---
 
-## 📜 [ RECENT ACTIVITY — AUTO UPDATES ]
+## 📊 ═══ PLAYER STATS ═══
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhushiKalwani24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00FF41&title_color=00FF41&icon_color=FF4500&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiKalwani24&layout=compact&langs_count=8&theme=radical&border_color=FF0080&title_color=FF0080"/>
+
+</div>
+
+---
+
+## 🔥 ═══ DAILY BATTLE STREAK ═══
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=KhushiKalwani24&theme=dark&hide_border=false&border=00FF41&fire=FF4500&ring=00FF41&currStreakLabel=00FF41&sideLabels=ffffff&dates=888888" width="600"/>
+
+</div>
+
+---
+
+## 🗺️ ═══ THE BATTLEFIELD — CONTRIBUTION MAP ═══
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiKalwani24&theme=react-dark&hide_border=false&color=00FF41&line=00FF41&point=FF4500&area=true&area_color=00FF4122" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 ═══ THE SNAKE EATS MY CONTRIBUTIONS ═══
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KhushiKalwani24/KhushiKalwani24/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+> 💡 *To enable: add a GitHub Actions workflow to your profile repo to auto-generate the snake SVG!*
+
+</div>
+
+---
+
+## 🏅 ═══ HALL OF FAME — TROPHIES ═══
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KhushiKalwani24&theme=matrix&no-bg=true&no-frame=false&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+---
+
+## 📜 ═══ RECENT ACTIVITY LOG ═══
 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:end-->
 
-> ⚡ *This log auto-updates on every push!*
+> ⚡ *Auto-updates on every push!*
 
 ---
 
-## 💬 [ WISDOM DROP OF THE DAY ]
+## 💡 ═══ WISDOM OF THE DATA MAGE ═══
 
 <div align="center">
 
-> 💡 *"Data is the new oil — but only if you know how to refine it."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🤝 [ JOIN MY PARTY ]
+## 🤝 ═══ JOIN MY PARTY — CONTACT ═══
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushikalwani2006@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kalwani2880)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhushiKalwani24)
+[![Gmail](https://img.shields.io/badge/📧_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushikalwani2006@gmail.com)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kalwani2880)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhushiKalwani24)
+[![Kaggle](https://img.shields.io/badge/📊_Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
 
 </div>
 
@@ -192,10 +278,16 @@ Next Quest : Reinforcement Learning & Large Language Models
 
 <div align="center">
 
-```
-⚔️  "Every dataset is a dungeon. Every model is your weapon. Keep grinding."  ⚔️
-```
+<!-- ANIMATED FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep+Coding.+Keep+Leveling+Up.&fontSize=20&fontColor=fff&animation=twinkling" />
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KhushiKalwani24.KhushiKalwani24)
+<br>
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KhushiKalwani24.KhushiKalwani24&left_color=black&right_color=00FF41&left_text=👾%20Visitors)
+
+```
+⚔️  "Every dataset is a dungeon. Every model is your weapon."
+🔥  "Train hard. Deploy harder. Never stop leveling up."  🔥
+```
 
 </div>
