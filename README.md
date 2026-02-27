@@ -227,8 +227,6 @@ class KhushiKalwani:
 
 <img src="https://raw.githubusercontent.com/KhushiKalwani24/KhushiKalwani24/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-> 💡 *To enable: add a GitHub Actions workflow to your profile repo to auto-generate the snake SVG!*
-
 </div>
 
 ---
