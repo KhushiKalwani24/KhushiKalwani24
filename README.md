@@ -225,9 +225,15 @@ class KhushiKalwani:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KhushiKalwani24/KhushiKalwani24/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhushiKalwani24/KhushiKalwani24/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhushiKalwani24/KhushiKalwani24/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/KhushiKalwani24/KhushiKalwani24/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
+
+> ⚠️ **To activate snake:** Go to your profile repo → Actions tab → Run `Generate Snake Animation` workflow manually once!
 
 ---
 
@@ -235,7 +241,31 @@ class KhushiKalwani:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KhushiKalwani24&theme=matrix&no-bg=true&no-frame=false&column=7&margin-w=8&margin-h=8" />
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                  🏆  ACHIEVEMENTS UNLOCKED  🏆                   ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   🥇  FIRST PUSH          Deployed first code to GitHub          ║
+║   🔥  YOLOV8 WIELDER      Built real-time fire detection         ║
+║   🧠  MIND READER         Predicted depression with ML           ║
+║   ❤️   LIFE SAVER          Heart disease prediction model         ║
+║   📈  MARKET ORACLE       Selling price regression complete      ║
+║   🐍  PYTHON CASTER       Mastered the serpent language          ║
+║   📊  DATA ALCHEMIST      Turned raw data into gold              ║
+║   👁️   VISION UNLOCKED     Computer vision skills acquired        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+![YOLOv8](https://img.shields.io/badge/🥇_FIRST_PUSH-UNLOCKED-00FF41?style=for-the-badge&labelColor=0d0d0d)
+![Fire](https://img.shields.io/badge/🔥_YOLOV8_WIELDER-UNLOCKED-FF4500?style=for-the-badge&labelColor=0d0d0d)
+![Vision](https://img.shields.io/badge/👁️_VISION_MASTER-UNLOCKED-8A2BE2?style=for-the-badge&labelColor=0d0d0d)
+![Python](https://img.shields.io/badge/🐍_PYTHON_CASTER-UNLOCKED-3776AB?style=for-the-badge&labelColor=0d0d0d)
+![Data](https://img.shields.io/badge/📊_DATA_ALCHEMIST-UNLOCKED-FF6F00?style=for-the-badge&labelColor=0d0d0d)
+![Heart](https://img.shields.io/badge/❤️_LIFE_SAVER-UNLOCKED-D00000?style=for-the-badge&labelColor=0d0d0d)
+![ML](https://img.shields.io/badge/🧠_MIND_READER-UNLOCKED-20BEFF?style=for-the-badge&labelColor=0d0d0d)
+![Market](https://img.shields.io/badge/📈_MARKET_ORACLE-UNLOCKED-F7931E?style=for-the-badge&labelColor=0d0d0d)
 
 </div>
 
