@@ -194,8 +194,25 @@ class KhushiKalwani:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhushiKalwani24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00FF41&title_color=00FF41&icon_color=FF4500&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiKalwani24&layout=compact&langs_count=8&theme=radical&border_color=FF0080&title_color=FF0080"/>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    📊  BATTLE STATISTICS  📊                     ║
+╠══════════════════════╦═══════════════════════════════════════════╣
+║   LANGUAGES USED     ║   STACK BREAKDOWN                        ║
+╠══════════════════════╬═══════════════════════════════════════════╣
+║                      ║                                          ║
+║   🐍 Python   ████████████████████  95%                         ║
+║   📓 Jupyter  ████████████░░░░░░░░  65%                         ║
+║   📊 SQL      ████████░░░░░░░░░░░░  45%                         ║
+║   📝 Markdown ██████░░░░░░░░░░░░░░  35%                         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+![Python](https://img.shields.io/badge/Python-95%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d0d)
+![Jupyter](https://img.shields.io/badge/Jupyter-65%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d0d0d)
+![SQL](https://img.shields.io/badge/SQL-45%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d0d0d)
+![Markdown](https://img.shields.io/badge/Markdown-35%25-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=0d0d0d)
 
 </div>
 
@@ -205,7 +222,25 @@ class KhushiKalwani:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=KhushiKalwani24&theme=dark&hide_border=false&border=00FF41&fire=FF4500&ring=00FF41&currStreakLabel=00FF41&sideLabels=ffffff&dates=888888" width="600"/>
+```
+╔═══════════════════════════════════════════════════════╗
+║               🔥  CODING STREAK STATUS  🔥            ║
+╠═══════════════════════════════════════════════════════╣
+║                                                       ║
+║   📅  Started        :  2024  — The Journey Begins   ║
+║   ⚔️   Total Commits  :  Growing every day...         ║
+║   🔥  Current Goal   :  Commit every single day      ║
+║   🏆  Streak Status  :  ACTIVE — Keep grinding!      ║
+║                                                       ║
+║   "Consistency beats talent when talent              ║
+║    doesn't show up every day." — Data Mage           ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+![Commits](https://img.shields.io/badge/🔥_STREAK-ACTIVE-FF4500?style=for-the-badge&labelColor=0d0d0d)
+![Status](https://img.shields.io/badge/📅_STARTED-2024-00FF41?style=for-the-badge&labelColor=0d0d0d)
+![Goal](https://img.shields.io/badge/🎯_GOAL-DAILY_COMMITS-blueviolet?style=for-the-badge&labelColor=0d0d0d)
 
 </div>
 
@@ -215,7 +250,24 @@ class KhushiKalwani:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiKalwani24&theme=react-dark&hide_border=false&color=00FF41&line=00FF41&point=FF4500&area=true&area_color=00FF4122" width="100%"/>
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║               🗺️  CONTRIBUTION ACTIVITY LOG  🗺️                   ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║   🔥 Fire Detection       ██████████████████████  Mar 2024       ║
+║   ❤️  Heart Disease        ████████████████░░░░░░  Apr 2024       ║
+║   🧠 Depression Model     ██████████████░░░░░░░░  May 2024       ║
+║   📈 Price Prediction     ████████████░░░░░░░░░░  Jun 2024       ║
+║   📊 Loss Functions       ██████████░░░░░░░░░░░░  Jul 2024       ║
+║   🚀 Next Mission         ░░░░░░░░░░░░░░░░░░░░░░  IN PROGRESS    ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+![Projects](https://img.shields.io/badge/🚀_PROJECTS-5_SHIPPED-00FF41?style=for-the-badge&labelColor=0d0d0d)
+![Focus](https://img.shields.io/badge/👁️_FOCUS-COMPUTER_VISION-FF4500?style=for-the-badge&labelColor=0d0d0d)
+![Stack](https://img.shields.io/badge/🐍_STACK-PYTHON_+_ML-3776AB?style=for-the-badge&labelColor=0d0d0d)
 
 </div>
 
@@ -233,7 +285,9 @@ class KhushiKalwani:
 
 </div>
 
+> ⚠️ **To activate snake:** Go to your profile repo → Actions tab → Run `Generate Snake Animation` workflow manually once!
 
+---
 
 ## 🏅 ═══ HALL OF FAME — TROPHIES ═══
 
