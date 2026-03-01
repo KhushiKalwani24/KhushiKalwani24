@@ -233,9 +233,7 @@ class KhushiKalwani:
 
 </div>
 
-> ⚠️ **To activate snake:** Go to your profile repo → Actions tab → Run `Generate Snake Animation` workflow manually once!
 
----
 
 ## 🏅 ═══ HALL OF FAME — TROPHIES ═══
 
