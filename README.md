@@ -27,14 +27,16 @@
 
 ## 🕹️ INSERT COIN TO BEGIN 🕹️
 
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&multiline=true&width=750&height=120&lines=+PLAYER+1+;%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95;+%E2%9A%A1+KHUSHI+KALWANI+%E2%80%94+DATA+SCIENTIST+%E2%9A%A1+" alt="PLAYER 1"/>
+
 ```
- ██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗      ██╗
- ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗    ███║
- ██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝    ╚██║
- ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗     ██║
- ██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║     ██║
- ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝     ╚═╝
-              ⚡ KHUSHI KALWANI — DATA SCIENTIST ⚡
+        ██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗      ██╗
+        ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗    ███║
+        ██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝    ╚██║
+        ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗     ██║
+        ██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║     ██║
+        ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝     ╚═╝
+                     ⚡ KHUSHI KALWANI — DATA SCIENTIST ⚡
 ```
 
 </div>
@@ -123,37 +125,37 @@ class KhushiKalwani:
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════╗
-║          ⚔️  KHUSHI KALWANI  —  DATA MAGE  ⚔️         ║
-╠═══════════════════════════════════════════════════════╣
-║                                                       ║
-║   ❤️  HP      ████████████████░░░░░░   80 / 100       ║
-║   💙  MANA    ████████████░░░░░░░░░░   60 / 100       ║
-║   ✨  XP      ██████████████░░░░░░░░   90 / 150       ║
-║   🌟  LEVEL   ████░░░░░░░░░░░░░░░░░░    2 / 10        ║
-║                                                       ║
-╠═══════════════════════════════════════════════════════╣
-║                                                       ║
-║   ⚡ ACTIVE BUFFS:                                    ║
-║      🐍  Python Mastery        [MAXED]                ║
-║      🔥  YOLOv8 Vision         [ACTIVE]               ║
-║      🧠  Deep Learning         [TRAINING...]          ║
-║      📊  Data Science          [ACTIVE]               ║
-║      🤖  Generative AI         [UNLOCKING...]         ║
-║                                                       ║
-╠═══════════════════════════════════════════════════════╣
-║                                                       ║
-║   🚫 DEBUFFS:                                         ║
-║      ⏳  Transformers Not Yet Mastered                ║
-║      😴  Sleep Lost to Debugging Sessions             ║
-║                                                       ║
-╠═══════════════════════════════════════════════════════╣
-║                                                       ║
-║   🎯 NEXT UNLOCK @ LVL 3:  Reinforcement Learning    ║
-║   🎯 NEXT UNLOCK @ LVL 5:  LLM Fine-tuning           ║
-║   🎯 FINAL BOSS: Deploy AI Product to Production     ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
+               ╔═══════════════════════════════════════════════════════╗
+               ║          ⚔️  KHUSHI KALWANI  —  DATA MAGE  ⚔️         ║
+               ╠═══════════════════════════════════════════════════════╣
+               ║                                                       ║
+               ║   ❤️  HP      ████████████████░░░░░░   80 / 100       ║
+               ║   💙  MANA    ████████████░░░░░░░░░░   60 / 100       ║
+               ║   ✨  XP      ██████████████░░░░░░░░   90 / 150       ║
+               ║   🌟  LEVEL   ████░░░░░░░░░░░░░░░░░░    2 / 10        ║
+               ║                                                       ║
+               ╠═══════════════════════════════════════════════════════╣
+               ║                                                       ║
+               ║   ⚡ ACTIVE BUFFS:                                    ║
+               ║      🐍  Python Mastery        [MAXED]                ║
+               ║      🔥  YOLOv8 Vision         [ACTIVE]               ║
+               ║      🧠  Deep Learning         [TRAINING...]          ║
+               ║      📊  Data Science          [ACTIVE]               ║
+               ║      🤖  Generative AI         [UNLOCKING...]         ║
+               ║                                                       ║
+               ╠═══════════════════════════════════════════════════════╣
+               ║                                                       ║
+               ║   🚫 DEBUFFS:                                         ║
+               ║      ⏳  Transformers Not Yet Mastered                ║
+               ║      😴  Sleep Lost to Debugging Sessions             ║
+               ║                                                       ║
+               ╠═══════════════════════════════════════════════════════╣
+               ║                                                       ║
+               ║   🎯 NEXT UNLOCK @ LVL 3:  Reinforcement Learning    ║
+               ║   🎯 NEXT UNLOCK @ LVL 5:  LLM Fine-tuning           ║
+               ║   🎯 FINAL BOSS: Deploy AI Product to Production     ║
+               ║                                                       ║
+               ╚═══════════════════════════════════════════════════════╝
 ```
 
 <img src="https://img.shields.io/badge/⚔️_LEVEL-2-00FF41?style=for-the-badge&labelColor=0d0d0d" />
