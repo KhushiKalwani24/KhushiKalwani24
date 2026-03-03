@@ -191,6 +191,8 @@ class KhushiKalwani:
 
 <div align="center">
 
+
+
 <!-- KAGGLE-NOTEBOOKS:START -->
 | 📓 Notebook | 🏷️ Tags | 🔗 |
 |---|---|:---:|
@@ -307,6 +309,13 @@ class KhushiKalwani:
 
 </div>
 
+## 🃏 ═══ 3D CONTRIBUTION CALENDAR ═══
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KhushiKalwani24/KhushiKalwani24/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+</div>
 
 
 ## 🏅 ═══ HALL OF FAME — TROPHIES ═══
