@@ -1,5 +1,3 @@
-<img width="997" height="348" alt="image" src="https://github.com/user-attachments/assets/ae0529e0-0fc8-43cd-aed2-16288b3f81e1" /><div align="center">
-
 <!-- ANIMATED BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KHUSHI%20KALWANI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20YOLOv8%20Warrior&descAlignY=55&descSize=16" />
 
