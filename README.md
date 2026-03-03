@@ -187,6 +187,19 @@ class KhushiKalwani:
 | 5️⃣ | [📊 Loss & Cost Functions](https://github.com/KK-coder-12/Loss-and-Cost-function) | Deep dive into optimization math | `NumPy + Math` | **+10 XP** |
 
 </div>
+## 📰 ═══ LATEST KAGGLE NOTEBOOKS ═══
+
+<div align="center">
+
+<!-- KAGGLE-NOTEBOOKS:START -->
+| 📓 Notebook | 🏷️ Tags | 🔗 |
+|---|---|:---:|
+| 🔥 Fire Detection with YOLOv8 | `Computer Vision` `YOLOv8` `OpenCV` | [▶ Open](https://www.kaggle.com/khushikalwani24) |
+| ❤️ Heart Disease Prediction | `Classification` `EDA` `Scikit-Learn` | [▶ Open](https://www.kaggle.com/khushikalwani24) |
+| 🧠 Student Depression Analysis | `ML` `Classification` `Healthcare` | [▶ Open](https://www.kaggle.com/khushikalwani24) |
+<!-- KAGGLE-NOTEBOOKS:END -->
+
+</div>
 
 <div align="center">
 
