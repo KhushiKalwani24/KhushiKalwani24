@@ -38,7 +38,16 @@
 ```
 
 </div>
+---
+## 🎯 ═══ CURRENTLY LEARNING ═══
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF4500&center=true&vCenter=true&width=750&height=50&lines=🧠+Currently+Learning...+Transformers;⚡+Currently+Learning...+GANs;🤖+Currently+Learning...+Reinforcement+Learning;🔬+Currently+Learning...+LLM+Fine-tuning;👁️+Currently+Learning...+Diffusion+Models;🚀+Currently+Learning...+MLOps+%26+Deployment" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=750&height=35&lines=📍+Current+Focus+%3A+Deep+Learning+%2B+Computer+Vision;🎯+Target+%3A+Deploy+AI+Product+to+Production;⚔️+Mode+%3A+GRINDING+HARD..." />
+
+</div>
 ---
 
 ## 🎮 ═══ PLAYER CARD ═══
