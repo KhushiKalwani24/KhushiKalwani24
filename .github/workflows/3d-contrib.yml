@@ -11,14 +11,16 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: KhushiKalwani24
-          SETTING_JSON: '{"backgroundColor":"#0d1117","foreground":"#00FF41","background":"#0d1117"}'
-      - run: |
+
+      - name: Commit and push
+        run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add -A
-          git commit -m "Generate 3D contribution" || true
+          git commit -m "Generate 3D contribution calendar" || true
           git push
