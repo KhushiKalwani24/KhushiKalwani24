@@ -1,3 +1,5 @@
+<div align="center">
+
 <!-- ANIMATED BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KHUSHI%20KALWANI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20YOLOv8%20Warrior&descAlignY=55&descSize=16" />
 
@@ -13,7 +15,6 @@
 <br>
 
 <div align="center">
-  <!-- ORIGINAL GIF — KEPT AS REQUESTED -->
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="320" alt="console loading"/>
 </div>
 
@@ -25,7 +26,8 @@
 
 ## 🕹️ INSERT COIN TO BEGIN 🕹️
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&multiline=true&width=750&height=120&lines=+PLAYER+1+;%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95;+%E2%9A%A1+KHUSHI+KALWANI+%E2%80%94+DATA+SCIENTIST+%E2%9A%A1+" alt="PLAYER 1"/>
+<!-- FIX: increased duration to 500ms so name appears immediately, pause reduced -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=500&pause=9999&color=00FF41&center=true&vCenter=true&multiline=true&width=750&height=120&lines=+PLAYER+1+;%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95;+%E2%9A%A1+KHUSHI+KALWANI+%E2%80%94+DATA+SCIENTIST+%E2%9A%A1+" alt="PLAYER 1"/>
 
 ```
         ██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗      ██╗
@@ -38,7 +40,9 @@
 ```
 
 </div>
+
 ---
+
 ## 🎯 ═══ CURRENTLY LEARNING ═══
 
 <div align="center">
@@ -48,6 +52,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=750&height=35&lines=📍+Current+Focus+%3A+Deep+Learning+%2B+Computer+Vision;🎯+Target+%3A+Deploy+AI+Product+to+Production;⚔️+Mode+%3A+GRINDING+HARD..." />
 
 </div>
+
 ---
 
 ## 🎮 ═══ PLAYER CARD ═══
@@ -187,21 +192,6 @@ class KhushiKalwani:
 | 5️⃣ | [📊 Loss & Cost Functions](https://github.com/KK-coder-12/Loss-and-Cost-function) | Deep dive into optimization math | `NumPy + Math` | **+10 XP** |
 
 </div>
-## 📰 ═══ LATEST KAGGLE NOTEBOOKS ═══
-
-<div align="center">
-
-
-
-<!-- KAGGLE-NOTEBOOKS:START -->
-| 📓 Notebook | 🏷️ Tags | 🔗 |
-|---|---|:---:|
-| 🔥 Fire Detection with YOLOv8 | `Computer Vision` `YOLOv8` `OpenCV` | [▶ Open](https://www.kaggle.com/khushikalwani24) |
-| ❤️ Heart Disease Prediction | `Classification` `EDA` `Scikit-Learn` | [▶ Open](https://www.kaggle.com/khushikalwani24) |
-| 🧠 Student Depression Analysis | `ML` `Classification` `Healthcare` | [▶ Open](https://www.kaggle.com/khushikalwani24) |
-<!-- KAGGLE-NOTEBOOKS:END -->
-
-</div>
 
 <div align="center">
 
@@ -214,6 +204,22 @@ class KhushiKalwani:
 
 ---
 
+## 📰 ═══ LATEST KAGGLE NOTEBOOKS ═══
+
+<div align="center">
+
+<!-- KAGGLE-NOTEBOOKS:START -->
+| 📓 Notebook | 🏷️ Tags | 🔗 |
+|---|---|:---:|
+| 🔥 Fire Detection with YOLOv8 | `Computer Vision` `YOLOv8` `OpenCV` | [▶ Open](https://www.kaggle.com/khushikalwani24) |
+| ❤️ Heart Disease Prediction | `Classification` `EDA` `Scikit-Learn` | [▶ Open](https://www.kaggle.com/khushikalwani24) |
+| 🧠 Student Depression Analysis | `ML` `Classification` `Healthcare` | [▶ Open](https://www.kaggle.com/khushikalwani24) |
+<!-- KAGGLE-NOTEBOOKS:END -->
+
+</div>
+
+---
+
 ## 📊 ═══ PLAYER STATS ═══
 
 <div align="center">
@@ -221,10 +227,8 @@ class KhushiKalwani:
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                    📊  BATTLE STATISTICS  📊                     ║
-╠══════════════════════╦═══════════════════════════════════════════╣
-║   LANGUAGES USED     ║   STACK BREAKDOWN                        ║
-╠══════════════════════╬═══════════════════════════════════════════╣
-║                      ║                                          ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
 ║   🐍 Python   ████████████████████  95%                         ║
 ║   📓 Jupyter  ████████████░░░░░░░░  65%                         ║
 ║   📊 SQL      ████████░░░░░░░░░░░░  45%                         ║
@@ -274,6 +278,13 @@ class KhushiKalwani:
 
 <div align="center">
 
+<!-- LIVE ACTIVITY GRAPH ADDED -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiKalwani24&theme=react-dark&hide_border=true&color=00FF41&line=00FF41&point=FF4500&area=true&area_color=00FF4120&custom_title=⚔️%20KHUSHI'S%20BATTLE%20HISTORY" width="100%"/>
+
+</div>
+
+<div align="center">
+
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║               🗺️  CONTRIBUTION ACTIVITY LOG  🗺️                   ║
@@ -309,14 +320,21 @@ class KhushiKalwani:
 
 </div>
 
+---
+
 ## 🃏 ═══ 3D CONTRIBUTION CALENDAR ═══
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KhushiKalwani24/KhushiKalwani24/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<!-- IMPROVED: switched to profile-south-season-animate for animated rotating 3D view -->
+<img src="https://raw.githubusercontent.com/KhushiKalwani24/KhushiKalwani24/main/profile-3d-contrib/profile-south-season-animate.svg" width="100%" alt="3D Contribution Calendar Animated"/>
+
+<!-- FALLBACK: static version if animated doesn't load yet -->
+<!-- <img src="https://raw.githubusercontent.com/KhushiKalwani24/KhushiKalwani24/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/> -->
 
 </div>
 
+---
 
 ## 🏅 ═══ HALL OF FAME — TROPHIES ═══
 
@@ -387,7 +405,6 @@ class KhushiKalwani:
 
 <div align="center">
 
-<!-- ANIMATED FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep+Coding.+Keep+Leveling+Up.&fontSize=20&fontColor=fff&animation=twinkling" />
 
 <br>
