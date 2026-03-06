@@ -1,21 +1,19 @@
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KHUSHI%20KALWANI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20YOLOv8%20Warrior&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=KHUSHI%20KALWANI&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20YOLOv8%20Warrior&descAlignY=58&descSize=18" />
 
 </div>
 
 <div align="center">
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=750&height=100&lines=%E2%96%BA+BOOTING+PLAYER+PROFILE...;%E2%96%BA+LOADING+ML+MODULES...+%E2%9C%93;%E2%96%BA+YOLOV8+ENGINE+ONLINE...+%E2%9C%93;%E2%96%BA+READY+TO+TRAIN+%26+DEPLOY+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&multiline=true&width=750&height=100&lines=%E2%96%BA+BOOTING+PLAYER+PROFILE...;%E2%96%BA+LOADING+ML+MODULES...+OK;%E2%96%BA+YOLOV8+ENGINE+ONLINE...+OK;%E2%96%BA+READY+TO+TRAIN+%26+DEPLOY!" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="320" alt="console loading"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="console loading"/>
 </div>
 
 <br>
@@ -26,8 +24,7 @@
 
 ## 🕹️ INSERT COIN TO BEGIN 🕹️
 
-<!-- FIX: increased duration to 500ms so name appears immediately, pause reduced -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=500&pause=9999&color=00FF41&center=true&vCenter=true&multiline=true&width=750&height=120&lines=+PLAYER+1+;%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95;+%E2%9A%A1+KHUSHI+KALWANI+%E2%80%94+DATA+SCIENTIST+%E2%9A%A1+" alt="PLAYER 1"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=400&pause=99999&color=00FF41&center=true&vCenter=true&multiline=true&width=750&height=100&lines=+++++++PLAYER+1+++++++++;%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95;+KHUSHI+KALWANI+--+DATA+SCIENTIST+" alt="PLAYER 1"/>
 
 ```
         ██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗      ██╗
@@ -47,9 +44,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF4500&center=true&vCenter=true&width=750&height=50&lines=🧠+Currently+Learning...+Transformers;⚡+Currently+Learning...+GANs;🤖+Currently+Learning...+Reinforcement+Learning;🔬+Currently+Learning...+LLM+Fine-tuning;👁️+Currently+Learning...+Diffusion+Models;🚀+Currently+Learning...+MLOps+%26+Deployment" />
+<!-- FIX: Removed emojis from lines param — they break the SVG renderer -->
+<!-- Using plain ASCII text + percent-encoded special chars only -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=400&color=FF4500&center=true&vCenter=true&width=750&height=55&lines=Transformers+%26+Attention+Mechanisms;Generative+Adversarial+Networks+(GANs);Reinforcement+Learning+from+Scratch;LLM+Fine-tuning+%26+Prompt+Engineering;Diffusion+Models+for+Image+Generation;MLOps+%26+Model+Deployment+at+Scale" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=750&height=35&lines=📍+Current+Focus+%3A+Deep+Learning+%2B+Computer+Vision;🎯+Target+%3A+Deploy+AI+Product+to+Production;⚔️+Mode+%3A+GRINDING+HARD..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=750&height=40&lines=Focus+%3A+Deep+Learning+%2B+Computer+Vision;Target+%3A+Deploy+AI+Products+to+Production;Mode+%3A+GRINDING+HARD+--+No+Days+Off" />
 
 </div>
 
@@ -220,7 +219,24 @@ class KhushiKalwani:
 
 ---
 
-## 📊 ═══ PLAYER STATS ═══
+## 📊 ═══ GITHUB STATS ═══
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KhushiKalwani24&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=FF4500&text_color=ffffff&ring_color=00FF41" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KhushiKalwani24&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=FF4500&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff&stroke=00FF4140" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiKalwani24&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff&langs_count=6" width="40%" />
+
+</div>
+
+---
+
+## 🔥 ═══ PLAYER STATS ═══
 
 <div align="center">
 
@@ -246,63 +262,11 @@ class KhushiKalwani:
 
 ---
 
-## 🔥 ═══ DAILY BATTLE STREAK ═══
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════╗
-║               🔥  CODING STREAK STATUS  🔥            ║
-╠═══════════════════════════════════════════════════════╣
-║                                                       ║
-║   📅  Started        :  2024  — The Journey Begins   ║
-║   ⚔️   Total Commits  :  Growing every day...         ║
-║   🔥  Current Goal   :  Commit every single day      ║
-║   🏆  Streak Status  :  ACTIVE — Keep grinding!      ║
-║                                                       ║
-║   "Consistency beats talent when talent              ║
-║    doesn't show up every day." — Data Mage           ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
-```
-
-![Commits](https://img.shields.io/badge/🔥_STREAK-ACTIVE-FF4500?style=for-the-badge&labelColor=0d0d0d)
-![Status](https://img.shields.io/badge/📅_STARTED-2024-00FF41?style=for-the-badge&labelColor=0d0d0d)
-![Goal](https://img.shields.io/badge/🎯_GOAL-DAILY_COMMITS-blueviolet?style=for-the-badge&labelColor=0d0d0d)
-
-</div>
-
----
-
 ## 🗺️ ═══ THE BATTLEFIELD — CONTRIBUTION MAP ═══
 
 <div align="center">
 
-<!-- LIVE ACTIVITY GRAPH ADDED -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiKalwani24&theme=react-dark&hide_border=true&color=00FF41&line=00FF41&point=FF4500&area=true&area_color=00FF4120&custom_title=⚔️%20KHUSHI'S%20BATTLE%20HISTORY" width="100%"/>
-
-</div>
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║               🗺️  CONTRIBUTION ACTIVITY LOG  🗺️                   ║
-╠═══════════════════════════════════════════════════════════════════╣
-║                                                                   ║
-║   🔥 Fire Detection       ██████████████████████  Mar 2024       ║
-║   ❤️  Heart Disease        ████████████████░░░░░░  Apr 2024       ║
-║   🧠 Depression Model     ██████████████░░░░░░░░  May 2024       ║
-║   📈 Price Prediction     ████████████░░░░░░░░░░  Jun 2024       ║
-║   📊 Loss Functions       ██████████░░░░░░░░░░░░  Jul 2024       ║
-║   🚀 Next Mission         ░░░░░░░░░░░░░░░░░░░░░░  IN PROGRESS    ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-![Projects](https://img.shields.io/badge/🚀_PROJECTS-5_SHIPPED-00FF41?style=for-the-badge&labelColor=0d0d0d)
-![Focus](https://img.shields.io/badge/👁️_FOCUS-COMPUTER_VISION-FF4500?style=for-the-badge&labelColor=0d0d0d)
-![Stack](https://img.shields.io/badge/🐍_STACK-PYTHON_+_ML-3776AB?style=for-the-badge&labelColor=0d0d0d)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiKalwani24&theme=react-dark&hide_border=true&color=00FF41&line=00FF41&point=FF4500&area=true&area_color=00FF4120&custom_title=KHUSHI%27S+BATTLE+HISTORY" width="100%"/>
 
 </div>
 
@@ -326,17 +290,19 @@ class KhushiKalwani:
 
 <div align="center">
 
-<!-- IMPROVED: switched to profile-south-season-animate for animated rotating 3D view -->
-<img src="https://raw.githubusercontent.com/KhushiKalwani24/KhushiKalwani24/main/profile-3d-contrib/profile-south-season-animate.svg" width="100%" alt="3D Contribution Calendar Animated"/>
-
-<!-- FALLBACK: static version if animated doesn't load yet -->
-<!-- <img src="https://raw.githubusercontent.com/KhushiKalwani24/KhushiKalwani24/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/> -->
+<img src="https://raw.githubusercontent.com/KhushiKalwani24/KhushiKalwani24/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar"/>
 
 </div>
 
 ---
 
 ## 🏅 ═══ HALL OF FAME — TROPHIES ═══
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KhushiKalwani24&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
+
+</div>
 
 <div align="center">
 
@@ -394,10 +360,10 @@ class KhushiKalwani:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/📧_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushikalwani2006@gmail.com)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kalwani2880)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhushiKalwani24)
-[![Kaggle](https://img.shields.io/badge/📊_Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushikalwani2006@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kalwani2880)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhushiKalwani24)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/khushikalwani24)
 
 </div>
 
@@ -409,7 +375,7 @@ class KhushiKalwani:
 
 <br>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KhushiKalwani24.KhushiKalwani24&left_color=black&right_color=00FF41&left_text=👾%20Visitors)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KhushiKalwani24.KhushiKalwani24&left_color=0d0d0d&right_color=00FF41&left_text=Visitors)
 
 ```
 ⚔️  "Every dataset is a dungeon. Every model is your weapon."
