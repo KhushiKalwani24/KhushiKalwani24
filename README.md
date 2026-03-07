@@ -46,6 +46,10 @@ class KhushiKalwani:
             "shield"   : "Data Preprocessing & EDA",
             "grinding" : "Never. Stop. Learning."
         }
+
+    @property
+    def currently_building(self):
+        return "🔨 Next ML project — loading... stay tuned!"
 ```
 
 <br clear="right"/>
@@ -176,6 +180,33 @@ class KhushiKalwani:
 
 ---
 
+## 📓 Latest Kaggle Notebooks
+
+<div align="center">
+
+| 📓 Notebook | 🏷️ Tags | 🔗 |
+|---|---|:---:|
+| 🔥 Fire Detection with YOLOv8 | `Computer Vision` `YOLOv8` `OpenCV` | [▶ Open](https://www.kaggle.com/khushikalwani24) |
+| ❤️ Heart Disease Prediction | `Classification` `EDA` `Scikit-Learn` | [▶ Open](https://www.kaggle.com/khushikalwani24) |
+| 🧠 Student Depression Analysis | `ML` `Classification` `Healthcare` | [▶ Open](https://www.kaggle.com/khushikalwani24) |
+| 📈 Selling Price Prediction | `Regression` `Feature Engineering` | [▶ Open](https://www.kaggle.com/khushikalwani24) |
+
+</div>
+
+---
+
+## 🃏 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KhushiKalwani24/KhushiKalwani24/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar"/>
+
+> ⚙️ *To activate: add the [3D Contrib GitHub Action](https://github.com/yoshi389111/github-profile-3d-contrib) to your profile repo*
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -269,6 +300,7 @@ class KhushiKalwani:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushikalwani2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-kalwani)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhushiKalwani24)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/khushikalwani24)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kalwani2880)
